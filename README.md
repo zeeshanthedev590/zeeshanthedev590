@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on With Programmers
 - 🤔 I’m looking for help with My Code To Get A Job At Google
 - 💬 Ask me about Anything 
-- 📫 How to reach me: Here Is My Two Websites [My Portfolio][website] [ChatHut (It Is A Socail Media App For Programmers And Normal People i Made It)][chathut]
+- 📫 How to reach me: Here Is My Two Websites [My Portfolio][website] And  [ChatHut (It Is A Socail Media App For Programmers And Normal People i Made It)][chathut]
 - 😄 Pronouns: Sometimes The Starting Is The Ending And The Ending Is The Starting 
 - ⚡ Fun fact: I Love To Code At Night 
 
