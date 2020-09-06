@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Learning C
-- 🌱 I’m currently learning C
+- 🔭 I’m currently working on Learning Java
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on With Programmers
 - 🤔 I’m looking for help with My Code To Get A Job At Google
 - 💬 Ask me about Anything 
