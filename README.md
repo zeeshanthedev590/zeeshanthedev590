@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on With Programmers
 - 🤔 I’m looking for help with My Code To Get A Job At Google
 - 💬 Ask me about Anything 
-- 📫 How to reach me: Here Is My Two Websites [My Portfolio][website]
+- 📫 How to reach me: Here Is [My Portfolio][website]
 - 😄 Pronouns: Big Dreams And Small Steps Will Surly Lead To Success
 - ⚡ Fun fact: I Love To Code At Night 
 
