@@ -5,13 +5,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Learning Java
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on Learning 
+- 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on With Programmers
 - 🤔 I’m looking for help with My Code To Get A Job At Google
 - 💬 Ask me about Anything 
-- 📫 How to reach me: Here Is My Two Websites [My Portfolio][website] And  [ChatHut (It Is A Socail Media App For Programmers And Normal People i Made It)][chathut]
-- 😄 Pronouns: Sometimes The Starting Is The Ending And The Ending Is The Starting 
+- 📫 How to reach me: Here Is My Two Websites [My Portfolio][website]
+- 😄 Pronouns: Big Dreams And Small Steps Will Surly Lead To Success
 - ⚡ Fun fact: I Love To Code At Night 
 
 
@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 
 
 [website]: https://zeeshanthedev590.github.io/
-[chathut]: https://chat-hut-89a71.web.app/
 [website]: https://zeeshanthedev590.github.io/
-[youtube]: https://youtube.com/ZeeshanKhalid
+[youtube]: https://www.youtube.com/channel/UC62mdNLSEO0qqI7vy9YMJOw
