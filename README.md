@@ -1,12 +1,12 @@
 ### I am [Zeeshan Khalid][website] 👋
-## I am A Full Stack Web Developer And Want To Get To Google
+## I am a Full Stack Web Developer , aspiring googler
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zeeshanthedev590) 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Learning 
-- 🌱 I’m currently learning Django
+- 🔭 I’m currently working on Firebase 🔥🔥🔥
+- 🌱 I’m currently learning Firebase
 - 👯 I’m looking to collaborate on With Programmers
 - 🤔 I’m looking for help with My Code To Get A Job At Google
 - 💬 Ask me about Anything 
