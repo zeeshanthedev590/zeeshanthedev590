@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 
 
-[website]: [https://portfolio-d3f7e.web.app/](https://personal-portfolio-website-zeeshanthedev590.vercel.app/)
+[website]: https://personal-portfolio-website-zeeshanthedev590.vercel.app/
 [youtube]: https://www.youtube.com/channel/UC62mdNLSEO0qqI7vy9YMJOw
