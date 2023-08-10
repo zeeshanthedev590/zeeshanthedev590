@@ -1,10 +1,6 @@
 ### I am [Zeeshan Khalid][website] 👋
 ## I am a Full Stack Web Developer
 
-![](https://visitor-badge.glitch.me/badge?page_id=zeeshanthedev590) 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Z4 stack
 - 👯 I’m looking to collaborate on With Programmers
 - 💬 Ask me about Anything 
