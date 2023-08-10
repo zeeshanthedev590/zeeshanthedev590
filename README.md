@@ -1,5 +1,5 @@
 ### I am [Zeeshan Khalid][website] 👋
-## I am a Full Stack Web Developer , aspiring googler
+## I am a Full Stack Web Developer
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zeeshanthedev590) 
 
