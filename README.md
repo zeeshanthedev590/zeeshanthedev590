@@ -11,4 +11,4 @@
 
 
 
-[website]: https://personal-portfolio-website-zeeshanthedev590.vercel.app/
+[website]: https://zeeshanthedev.vercel.app
