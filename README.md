@@ -5,10 +5,12 @@
 - 👯 I’m looking to collaborate on With Programmers
 - 💬 Ask me about Anything 
 - 📫 How to reach me: Here Is [My Portfolio][website]
-- ⚡ Fun fact: I Love To Code At Night 
+- ⚡ Blog : [Blog]
 
 
 
 
 
 [website]: https://zeeshankhalid.vercel.app
+
+[Blog]: https://zeeshankhalid.vercel.app
