@@ -13,4 +13,4 @@
 
 [website]: https://zeeshankhalid.vercel.app
 
-[Blog]: https://zeeshankhalid.vercel.app
+[Blog]: https://zeeshanthedev.vercel.app
