@@ -50,7 +50,7 @@
 - Successfully launched multiple web applications and design projects.
 - Developed [ZOSLDB](https://zosldb.vercel.app) – A JSON datastore with a custom language (in development).
 - Created [ZOSL](https://github.com/zeeshanthedev590/zosl) – A language for simplifying database modeling and visualization.
-- Built [Draw ZOSL](https://github.com/zeeshanthedev590/draw-zosl) – A tool for visualizing ZOSL schemas and data.
+- Built [Draw ZOSL](https://github.com/zeeshanthedev590/drawzosl) – A tool for visualizing ZOSL schemas and data.
 
 ---
 
