@@ -38,4 +38,3 @@
 
 ---
 
-Feel free to connect with me and let’s build something amazing together!
