@@ -10,10 +10,6 @@
 🛠️ **Ongoing Project:**
 - **[ZOSLDB](https://zosldb.vercel.app)** – A JSON datastore with a custom language (work in progress).
 
-🗃️ **Created:**
-- **[ZOSL](https://github.com/zeeshanthedev590/zosl)** – Zeeshan's Obviously Stupid Language, designed to simplify database modeling and visualization.
-- **[Draw ZOSL](https://github.com/zeeshanthedev590/draw-zosl)** – A tool for creating visual representations of ZOSL schemas and data in a local HTML file.
-
 👯 **Looking to Collaborate On:**
 - Exciting projects with other developers.
 
