@@ -1,6 +1,7 @@
 ### Hi, I’m Zeeshan Khalid 👋
 
-I’m a full stack developer with a passion for creating cool projects.
+A student and aspiring developer from Pakistan, currently pursuing A-levels in computer science with dreams of MIT. Passionate about coding, filmmaking, and photography, I aim to blend technical skills with creativity. Follow my journey through devlogs, vlogs, and more.
+
 
 
 🔧 **Currently Working On:**
